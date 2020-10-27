@@ -1,7 +1,9 @@
 # flutter_imc
 
 A new Flutter project.
-
+Calculation of BMI in flutter using a bloc pattern and making use of the layout according to the cell phone platform. <br> <br>
+![alt text](https://image.prntscr.com/image/jNROygeGSjeAtFiXrk9rxw.png)
+ <br> <br>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
